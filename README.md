@@ -1,1 +1,1 @@
-# bookshop
+# springcloud-bookshop
