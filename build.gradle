@@ -6,7 +6,7 @@ plugins {
     id 'java'
 }
 
-group = 'io.github.nornslab.bookshop'
+group = 'io.github.nornslab.springcloud.bookshop'
 
 subprojects {
 
