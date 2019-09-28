@@ -12,6 +12,6 @@ pluginManagement {
     }
 }
 
-rootProject.name = 'bookshop'
+rootProject.name = 'springcloud-bookshop'
 
 include 'cloud-discovery'
